@@ -8,5 +8,9 @@ public class ValidateTitle {
 		// TODO Auto-generated constructor stub
 		this.driver = driver;
 	}
+	public Object getTitle() {
+		// TODO Auto-generated method stub
+		return driver.getTitle();
+	}
 }
 
